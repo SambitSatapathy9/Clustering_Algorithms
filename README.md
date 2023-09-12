@@ -1,4 +1,4 @@
-# Photon_Identification
+# Clustering_Algorithms
 ## Introduction
 This repository consists of the scripts and plots for the estimation of a background in mono-photon final state using the 2017 datasets collected by the Compact Muon Solenoid (CMS) Detector at the Large Hadron Collider (LHC).
 
