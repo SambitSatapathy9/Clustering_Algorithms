@@ -9,8 +9,6 @@ The scripts and corresponding plots are implemented using C++, ROOT, and CMS-Sof
 ## Contents
 **Dataset/:** Contains the datasets used in the analysis 
 
-**scripts/:** Contains the C++ scripts used for data processing and analysis. 
-
 **Plots/:** Includes the generated plots and visualizations.
 
     Plots_Identification_Variables: Include the generated plots for different identification variables also known as "Shower-shape variables" which  are sensitive to the differences between the signal and the background.
@@ -18,7 +16,7 @@ The scripts and corresponding plots are implemented using C++, ROOT, and CMS-Sof
     Plots_Isolation_Variables: Include the generated plots for different isolation variables which isolates the photon candidate from the background. 
   
     Plots_eta_npho: Include the generated plots for signal and QCD background for different transverse energy (Et) values
-
+**Scripts/:** Contains the C++ scripts used for data processing and analysis. 
 
 **README.md:** Provides an overview of the repository and instructions for running the analysis.
 
